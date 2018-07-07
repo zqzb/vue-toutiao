@@ -7,6 +7,8 @@ import router from './router'
 Vue.config.productionTip = false
 
 require('./assets/css/public/reset.css')
+require('./assets/css/public/flexible.css')
+require('./assets/js/flexible.js')
 
 /* eslint-disable no-new */
 new Vue({
